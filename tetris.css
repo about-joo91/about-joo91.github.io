@@ -3,8 +3,8 @@ body {
 }
 
 td {
-    width: 30px;
-    height: 30px;
+    width: 25px;
+    height: 25px;
 }
 
 #gameField {
@@ -19,7 +19,7 @@ td {
     margin-top: 1.9px;
     margin-left: 3px;
     width: 200px;
-    height: 1155px;
+    height: 985px;
 }
 
 #score,
@@ -54,8 +54,8 @@ td {
     float: right;
     margin: 0px;
     position: absolute;
-    left: 750px;
-    top: 675px;
+    left: 650px;
+    top: 630px;
 }
 
 #help {
